@@ -7,7 +7,7 @@ This is a HTML CV Project for a Bootcamp.
 - **Frontend** - HTML 
 
 ## Features:
-- [ ] Personal CV with Tables, Lists, Images, and Links.
+- [ ] Personal CV Using HTML Tables, Lists, Images, and Links.
 
 ## Todo
 - [ ] Complete Using CSS and JS.
