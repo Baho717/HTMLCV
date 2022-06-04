@@ -12,4 +12,4 @@ This is a HTML CV Project for a Bootcamp.
 ## Todo
 - [ ] Complete Using CSS and JS.
 
-*[Benjamin Aho](Benjamin.aho27@gmail.com.com) Maintains this repository
+* <a href="mailto:Benjamin.aho27@gmail.com" title="FreelanceFreedom">Benjamin Aho</a> Maintains this repository
